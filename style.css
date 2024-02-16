@@ -1,0 +1,21 @@
+body {
+  background-color: #000;
+ }
+a.btn_03 {
+	display: block;
+	text-align: center;
+	vertical-align: smoll;
+	text-decoration: none;
+	width: 120px;
+	margin: auto;
+	padding: 1rem 4rem;
+	font-weight: bold;
+	border: 2px solid red;
+	color: #fff;
+	border-radius: 100vh;
+	transition: 0.5s;
+}
+a.btn_03:hover {
+	color: #fff;
+	background: red;
+}
